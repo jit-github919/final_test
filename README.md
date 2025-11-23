@@ -1,2 +1,3 @@
 #panel dashboard
-[LADYBUG DASHBOARD]https://github.com/jit-github919/final_test
+[LADYBUG DASHBOARD]https://jit-github919.github.io/final_test/
+
