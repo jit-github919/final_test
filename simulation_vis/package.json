@@ -2,6 +2,8 @@
   "name": "simulation",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jit-github919.github.io/final_test",
+
   "dependencies": {
     "@deck.gl/core": "^8.9.30",
     "@deck.gl/geo-layers": "^8.9.30",
